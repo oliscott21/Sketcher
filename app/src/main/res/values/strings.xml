@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sketcher</string>
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="clear">CLEAR</string>
+    <string name="share">SHARE</string>
+</resources>
